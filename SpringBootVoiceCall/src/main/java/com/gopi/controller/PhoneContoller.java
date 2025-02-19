@@ -18,7 +18,7 @@ import com.twilio.type.PhoneNumber;
 public class PhoneContoller {
 	
 	public static final String ACCOUNT_SID = "AC8848585cb904a2b89681ec8ccdf39010";
-	public static final String AUTH_TOKEN = "24185febf25b706f3166bc912586ba35";
+	public static final String AUTH_TOKEN = "youhave to past your twilo Auth Token ";
 	public static final String FROM_NUMBER = "+15417256893";
 	public static final String TO_NUMBER = "+917702776595";
 	
